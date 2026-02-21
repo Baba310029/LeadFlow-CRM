@@ -6,7 +6,9 @@ LeadFlow CRM is a production-structured, full-stack MERN application built to ma
 This project demonstrates scalable architecture, modular frontend engineering, RESTful backend practices, and responsive UI design.
 
 ---
+## 🎥 Live Demo
 
+👉 [Watch Full Demo Video](https://github.com/Baba310029/LeadFlow-CRM/issues/1#issue-3972369789)
 ## 🌟 Core Features
 
 ### 📊 Executive Dashboard
