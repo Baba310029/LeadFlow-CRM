@@ -25,7 +25,7 @@ function Leads() {
   
   const { leads, fetchLeads, loading } = useLeads()
 
-  const leadsPerPage = 4
+  const leadsPerPage = 6
   const filteredLeads = leads
     .filter((lead) =>
       activeFilter === "all" ? true : lead.status === activeFilter
